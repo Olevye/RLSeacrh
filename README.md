@@ -1,37 +1,9 @@
 # 🚀 RLSearch v1.1.0 - Premium Release
 
-<div align="center">
-
-![RLSearch Logo](https://img.shields.io/badge/RLSearch-v1.1.0-00ff88?style=for-the-badge&logo=rocket-league&logoColor=white)
-![Release Date](https://img.shields.io/badge/Released-October%2012%2C%202025-blue?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows)
-![License](https://img.shields.io/badge/License-Premium%20Only-red?style=for-the-badge)
-![Downloads](https://img.shields.io/badge/Downloads-15.2K+-success?style=for-the-badge)
 
 **Advanced Matchmaking Enhancement System for Rocket League**
 
-[📥 Download](#-download) • [📖 Documentation](#-documentation) • [💎 Get Premium](#-premium-plans) • [🐛 Report Bug](https://github.com/rlsearch/rlsearch/issues) • [💬 Discord](https://discord.gg/rlsearch)
-
-</div>
-
----
-
-## 📋 Table of Contents
-
-- [Overview](#-overview)
-- [What's New in v1.1.0](#-whats-new-in-v110)
-- [Features](#-features)
-- [System Requirements](#-system-requirements)
-- [Download](#-download)
-- [Installation](#-installation)
-- [Premium Plans](#-premium-plans)
-- [Usage Guide](#-usage-guide)
-- [FAQ](#-faq)
-- [Changelog](#-changelog)
-- [Support](#-support)
-- [License](#-license)
-
----
+[📥 Download](https://discord.gg/wHn7RRQ4sJ) • [📖 Documentation](https://discord.gg/wHn7RRQ4sJ) • [💎 Get Premium](https://discord.gg/wHn7RRQ4sJ) • [🐛 Report Bug](https://discord.gg/wHn7RRQ4sJ) • [💬 Discord](https://discord.gg/wHn7RRQ4sJ)
 
 ## 🎯 Overview
 
@@ -199,19 +171,6 @@
 
 ---
 
-## 📥 Download
-
-### Latest Release: v1.1.0 (October 12, 2025)
-
-<div align="center">
-
-| Download Option | Size | Description |
-|----------------|------|-------------|
-| [**🚀 RLSearch_v1.1.0_Setup.exe**](https://github.com/rlsearch/rlsearch/releases/download/v1.1.0/RLSearch_v1.1.0_Setup.exe) | **28.4 GB** | Full installer with all files |
-| [**📦 RLSearch_v1.1.0_Portable.zip**](https://github.com/rlsearch/rlsearch/releases/download/v1.1.0/RLSearch_v1.1.0_Portable.zip) | **28.2 GB** | Portable version (no installation) |
-| [**📜 Source_Code.zip**](https://github.com/rlsearch/rlsearch/archive/refs/tags/v1.1.0.zip) | **156 KB** | Python source code only |
-
-</div>
 
 ### File Hashes (SHA-256)
 
@@ -308,52 +267,27 @@ RLSearch requires a premium activation code. Choose the plan that fits your need
 | **Monthly** | 30 Days | $14.99 | 40 codes | Regular players |
 | **Quarterly** | 90 Days | $39.99 | 40 codes | Dedicated players |
 | **Yearly** | 365 Days | $99.99 | 30 codes | Serious competitors |
-| **Lifetime** | Forever | $249.99 | 1 code (SAL12) | Ultimate access |
 
 ### How to Get Premium
 
 #### Option 1: Purchase Code
-1. Visit [rlsearch.com/premium](https://rlsearch.com/premium)
+1. Visit [rlsearch.com/premium](https://discord.gg/wHn7RRQ4sJ)
 2. Select your desired plan
 3. Complete payment (PayPal/Card)
 4. Receive code via email instantly
 
 #### Option 2: Reseller
 Contact approved resellers:
-- Discord: `@RLSearchSales`
-- Email: `sales@rlsearch.com`
-- Telegram: `@RLSearchOfficial`
+- Discord: `@eidolonv2`
 
 #### Option 3: Giveaways
 Follow us for free code giveaways:
-- Twitter: [@RLSearchApp](https://twitter.com/rlsearchapp)
-- Discord: [Join Server](https://discord.gg/rlsearch)
-- YouTube: [Subscribe](https://youtube.com/@rlsearch)
+- Discord: [Join Server](https://discord.gg/wHn7RRQ4sJ)
 
 ### Sample Activation Codes
 
 Here are some example codes (for demonstration only):
 
-```
-1-Day Codes:
-1DAY-A1B2-C3D4
-1DAY-E5F6-G7H8
-
-7-Day Codes:
-OINX-BT9S-FLLK
-EC7F-5ZHH-SN9R
-
-30-Day Codes:
-7ILO-CKSK-WCN2
-LREC-LHG0-LWVI
-
-Lifetime Code:
-SAL12
-```
-
-> ⚠️ **Note**: Each code can only be activated on ONE computer. HWID locking prevents code sharing.
-
----
 
 ## 📖 Usage Guide
 
@@ -610,12 +544,6 @@ A:
 | High DPI scaling issues | Medium | In progress | Set compatibility to 100% |
 | Rare crash on Windows 10 LTSC | Low | Monitoring | Run in compatibility mode |
 
-### Planned Fixes (v1.1.1 - November 2025)
-- Persistent statistics across restarts
-- Better high DPI support
-- AMD GPU optimization
-- Windows 10 LTSC compatibility
-- Memory leak in long sessions (> 6 hours)
 
 ---
 
@@ -623,88 +551,31 @@ A:
 
 ### Get Help
 
-#### 📧 Email Support
-- General: support@rlsearch.com
-- Sales: sales@rlsearch.com
-- Technical: tech@rlsearch.com
-- Response time: 24-48 hours
 
 #### 💬 Discord Community
-Join our active community of 15,000+ users:
-- Server: [discord.gg/rlsearch](https://discord.gg/rlsearch)
+Join our active community:
+- Server: [discord.gg/rlsearch](https://discord.gg/wHn7RRQ4sJ)
 - Channels: #support, #general, #suggestions, #bugs
-- Live support during EU/US hours
+- Live support during ENG/RU lang
 
-#### 🐦 Social Media
-- Twitter: [@RLSearchApp](https://twitter.com/rlsearchapp)
-- Reddit: [r/RLSearch](https://reddit.com/r/rlsearch)
-- YouTube: [RLSearch Official](https://youtube.com/@rlsearch)
-
-#### 📚 Documentation
-- Wiki: [github.com/rlsearch/rlsearch/wiki](https://github.com/rlsearch/rlsearch/wiki)
-- API Docs: [docs.rlsearch.com](https://docs.rlsearch.com)
-- Video Tutorials: [youtube.com/@rlsearch/tutorials](https://youtube.com/@rlsearch/tutorials)
 
 ### Report a Bug
 
 Create an issue on GitHub:
-1. Go to [Issues](https://github.com/rlsearch/rlsearch/issues)
-2. Click "New Issue"
-3. Select "Bug Report" template
-4. Fill in all required information
-5. Attach log file from `%LOCALAPPDATA%\RLSearch\logs.txt`
+1. Go to [Issues](https://discord.gg/wHn7RRQ4sJ)
+2. Attach log file from `%LOCALAPPDATA%\RLSearch\logs.txt`
 
 ### Feature Requests
 
 We love hearing your ideas:
-1. Go to [Issues](https://github.com/rlsearch/rlsearch/issues)
-2. Click "New Issue"
-3. Select "Feature Request" template
-4. Describe your idea in detail
-5. Vote on existing requests
+1. Go to [Issues](https://discord.gg/wHn7RRQ4sJ)
 
 ---
 
-## 👥 Contributors
-
-### Core Team
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user1.png" width="100px;" alt=""/>
-      <br />
-      <sub><b>Alex Johnson</b></sub>
-      <br />
-      Lead Developer
-    </td>
-    <td align="center">
-      <img src="https://github.com/user2.png" width="100px;" alt=""/>
-      <br />
-      <sub><b>Sarah Chen</b></sub>
-      <br />
-      UI/UX Designer
-    </td>
-    <td align="center">
-      <img src="https://github.com/user3.png" width="100px;" alt=""/>
-      <br />
-      <sub><b>Mike Rodriguez</b></sub>
-      <br />
-      Backend Engineer
-    </td>
-    <td align="center">
-      <img src="https://github.com/user4.png" width="100px;" alt=""/>
-      <br />
-      <sub><b>Emma Wilson</b></sub>
-      <br />
-      QA Lead
-    </td>
-  </tr>
-</table>
 
 ### Special Thanks
 
-- **Community Testers**: 200+ beta testers who provided invaluable feedback
+- **Community Testers**
 - **Translators**: Helping us reach global audience
 - **Support Team**: Answering thousands of questions daily
 - **Premium Users**: Your support keeps this project alive!
@@ -824,7 +695,6 @@ TERMS OF USE:
    Refunds within 24 hours if code not activated.
    No refunds after activation.
 
-For full terms: https://rlsearch.com/license
 ```
 
 ### Open Source Components
@@ -878,34 +748,6 @@ RLSearch uses the following open-source libraries:
 
 ---
 
-## 🎬 Media & Screenshots
-
-### Application Screenshots
-
-#### Login Screen
-![Login Screen](https://i.imgur.com/rlsearch-login.png)
-*Modern login interface with premium activation*
-
-#### Main Interface
-![Main Interface](https://i.imgur.com/rlsearch-main.png)
-*Dashboard showing game detection and controls*
-
-#### Overlay Window
-![Overlay Window](https://i.imgur.com/rlsearch-overlay.png)
-*Real-time statistics overlay with live updates*
-
-#### Installer
-![Installer](https://i.imgur.com/rlsearch-install.png)
-*Professional installation wizard*
-
-### Video Tutorials
-
-- 📹 [Installation Guide (3:45)](https://youtube.com/watch?v=install-guide)
-- 📹 [First Time Setup (5:20)](https://youtube.com/watch?v=first-setup)
-- 📹 [Using the Overlay (7:15)](https://youtube.com/watch?v=overlay-guide)
-- 📹 [Advanced Features (10:30)](https://youtube.com/watch?v=advanced-features)
-
----
 
 ## 🌍 Translations
 
@@ -916,4 +758,4 @@ Help us translate RLSearch to your language!
 
 ### In Progress
 - 🇪🇸 Spanish (65%)
-- 🇫🇷 French (48
+- 🇫🇷 French (48%)
