@@ -1,4 +1,4 @@
-# 🚀 RLSearch v1.1.0 - Premium Release
+# 🚀 RLSearch v1.1.1 - Premium Release
 
 
 **Advanced Matchmaking Enhancement System for Rocket League**
