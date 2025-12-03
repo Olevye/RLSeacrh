@@ -1,6 +1,6 @@
 # 🎉 **RLSearch v2.0.0 + Hotfix v2.0.1 - Official Release**
 
-## 📅 **Release Date: January 3, 2025 (03.01.2025)**
+## 📅 **Release Date: December 3, 2025 (03.12.2025)**
 
 ---
 
@@ -11,7 +11,7 @@
 ```
 Version:        2.0.0
 Build Number:   3.01.2025
-Release Date:   January 3, 2025
+Release Date:   December 3, 2025
 Platform:       Windows 10/11 x64
 File Size:      ~45 MB
 Architecture:   64-bit
@@ -557,7 +557,7 @@ without explicit permission from the development team.
 
 ---
 
-**Release Date: January 3, 2025 (03.01.2025)**  
+**Release Date: December 3, 2025 (03.01.2025)**  
 **Version: 2.0.1 (Build 3.01.2025.1)**  
 **Status: STABLE**
 
